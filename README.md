@@ -18,7 +18,7 @@ Development of a model that chooses the correct mobile phone plan, analyzing cus
 Python, pandas, sklearn, accuracy_score, train_test_split
 
 ## Results
-Based on hyperparameter fitting on the validation set, the Random Forest model with n_estimators = 80 is selected as the best-performing model.
+Based on hyperparameter fitting on the validation dataset, the Random Forest model with n_estimators = 80 is selected as the best-performing model.
 
 Decision Tree provides a simpler and interpretable alternative, while Logistic Regression offers insights into the relative effect of features but with slightly lower accuracy.
 
